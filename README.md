@@ -4,7 +4,7 @@
 
 ![bucketlist](https://user-images.githubusercontent.com/55455103/130241562-49919737-00d7-492b-b2f4-908ae72aced1.gif)
 
-프로젝트 자세한 설명 ↓↓↓
+## 프로젝트 자세한 설명 ↓↓↓
 
 https://duckgugong.tistory.com/202?category=1039410
 
